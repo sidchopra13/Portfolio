@@ -6,6 +6,6 @@
 
 <p align="justify">This website serves as an online portfolio to showcase my web presence, story, & featured projects with a Particle.js aligned theme.</p>
 
-<img src="/img/jpg/portfolio-image.jpg" width="800" style="text-align: center;" />
+<img src="/assets/img/jpg/portfolio-image.jpg" width="800" style="text-align: center;" />
 
 Please feel free to reach me out at siddharthchopra49@gmail.com.
